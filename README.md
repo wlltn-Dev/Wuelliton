@@ -43,21 +43,17 @@ Construindo portfólio com projetos reais e evolução constante.
 <br/>
 <br/>
 
-#
-
 <h3 align="left">📊 GitHub Stats</h3>
 
-<p>
+<p align="left">
   <img 
-    align="left" 
     height="190"
-    src="https://github-readme-stats.vercel.app/api?username=wlltn-Dev&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true"
+    src="https://github-readme-stats.vercel.app/api?username=wlltn-Dev&show_icons=true&theme=tokyonight&locale=en&include_all_commits=true&hide_border=true"
   />
-
+  &nbsp;
   <img 
-    align="left"
     height="190"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlltn-Dev&theme=tokyonight&layout=compact&langs_count=8"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlltn-Dev&theme=tokyonight&layout=compact&langs_count=8&hide_border=true"
   />
 </p>
 
